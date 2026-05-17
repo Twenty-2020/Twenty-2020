@@ -6,6 +6,8 @@
   </a>
 </p>
 
+<img src="https://media1.tenor.com/m/BNby1AnlynMAAAAC/spinning-spining-cat.gif" alt="Banner" width="100%" />
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Twenty-2020">
