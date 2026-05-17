@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://media1.tenor.com/m/BNby1AnlynMAAAAC/spinning-spining-cat.gif" alt="Banner" width="100%" />
+<img src="https://media1.tenor.com/m/Fv2wswwSJ9YAAAAC/jumpscare.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
